@@ -1,0 +1,17 @@
+/*Write css in the three blocks provided below.
+You shoud not add any other classes here.*/
+
+.box1{
+    display:flex;
+    align-content: space-around;
+    flex-wrap: wrap;
+}
+.row{
+    display:flex;
+    width: 300px;
+    justify-content: space-around;
+}
+
+.box2{
+    position: relative;
+}
